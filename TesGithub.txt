@@ -7,3 +7,8 @@ sdfsdf
 rubah dari web github langsung
 
 TESSSSSSSSSSSS
+
+git add --all = buat upload lokal
+git commit -m = komit perubahan supaya bisa di push
+git push origin master = buat upload ke github
+git pull origin master = buat download update terbaru dari repository(folder yang ada di github)
